@@ -3804,3 +3804,21 @@ button[type=submit] {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.partners.partners-custom {
+  padding: 150px 0;
+}
+
+.partners.partners-custom .inner {
+    background: transparent;
+    box-shadow: none; 
+}
+
+.partners.partners-custom .inner ul li:first-child {
+  border: 0;
+}
+
+.location-content{
+  max-height: 300px;
+  overflow: scroll;
+}
