@@ -1,0 +1,88 @@
+[
+    {
+        "id": "9e661189-9545-4164-8a13-ae35f91ac246",
+        "title": "Artificial Intelligence & Big Data Conference & Exhibition Global 2020",
+        "description": "It's back! The AI & Big Data Expo Global, the leading Artificial Intelligence & Big Data Conference & Exhibition is taking place on 17-18th March 2020 at the Olympia in London. It will showcase the next generation technologies and strategies from the world of Artificial Intelligence & Big Data, providing an opportunity to explore and discover the practical and successful implementation of AI & Big Data to drive your business forward in 2020 and beyond. Our high-level conferences will bring together forward thinking brands, market leaders, AI & Big Data evangelists and hot start-ups to explore and debate the advancements in Artificial Intelligence & Big Data, the impacts within Enterprise & Consumer sectors as well as Development platforms and Digital Transformation opportunities.",
+        "type": {
+            "id": "155c5df7-6dcc-4694-9d22-052df0b5fd77",
+            "name": "conference"
+        },
+        "place": {
+            "id": "ad8b6a51-65c2-487c-9f47-97e02af49d3c",
+            "name": "Prince Consort Rooms at The HAC",
+            "country": "England",
+            "city": "London"
+        },
+        "when": "2020-03-17T10:00:00Z",
+        "created_at": "2020-01-04T11:09:23.243401Z"
+    },
+    {
+        "id": "9a94f71d-be23-4dbc-9ce9-05ce8eb771ef",
+        "title": "ProductCon London: The Product Management Conference",
+        "description": "ProductCon is the largest product management conference series in the world. It is organized by Product School and takes place five times a year in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs. Get ready to level up your product management skills, network with a global community of fellow product leaders and have a ball!",
+        "type": {
+            "id": "155c5df7-6dcc-4694-9d22-052df0b5fd77",
+            "name": "conference"
+        },
+        "place": {
+            "id": "eda4737c-19be-406b-80bf-461702a2ed25",
+            "name": "Assembly Hall at Shoreditch Town Hall",
+            "country": "England",
+            "city": "London"
+        },
+        "when": "2020-02-11T09:00:00Z",
+        "created_at": "2020-01-03T15:22:06.297625Z"
+    },
+    {
+        "id": "1ce29914-06aa-4902-b0cb-4d6ae8732859",
+        "title": "LSX World Congress 2020",
+        "description": "The 6th annual LSX World Congress is a high-calibre, senior executive, two-day conference, exhibition and partnering event providing the education, strategies, solutions and contacts that life science executives need to enable more effective investment, planning and strategic growth within their businesses. It is the leading event for attracting the C-suite of the global life science industry. With a relentless focus on quality peer-to-peer discussion, high-level networking and partnering, unique formats and a vetted, high-calibre audience, the LSX World Congress brings together the people that matter to the future of healthcare. LSX World Congress brings together Biotech, Medtech, Healthtech and Deeptech all under one roof. It’s an incredible two days that you’ll want to be part of.",
+        "type": {
+            "id": "155c5df7-6dcc-4694-9d22-052df0b5fd77",
+            "name": "conference"
+        },
+        "place": {
+            "id": "6b3867e0-d5d6-417c-87a6-8ef11eebdd02",
+            "name": "Atmosphere Ground at Atmosphere Venues",
+            "country": "England",
+            "city": "London"
+        },
+        "when": "2020-02-04T18:00:00Z",
+
+        "created_at": "2020-01-04T11:09:23.243401Z"
+    },
+    {
+        "id": "7b852319-5bdd-4b8a-af86-19637d9de23f",
+        "title": "Turing presents AI UK",
+        "description": "The Alan Turing Institute continues to pursue its ambitious goals: by advancing world class research in data science and artificial intelligence (AI), training and inspiring the leaders of the future, and shaping the public conversation. For the first time a dynamic, two-day showcase will see the Turing bring together all three of these goals in an unrivalled showcase featuring the very best of UK academic work in AI and machine learning.",
+        "type": {
+            "id": "af41615f-9db1-4fa1-90ed-fa9f3547ebe1",
+            "name": "presentation"
+        },
+        "place": {
+            "id": "04ee5433-abf4-4da0-b43b-034a71dfa470",
+            "name": "The Livery Hall at Vintner's Hall",
+            "country": "England",
+            "city": "London"
+        },
+        "when": "2020-02-04T18:00:00Z",
+        "created_at": "2020-01-04T11:09:23.243401Z"
+    },
+    {
+        "id": "73bf3774-aee4-495c-bf48-c48555c23441",
+        "title": "NDC London 2020 | Conference for Software Developers",
+        "description": "NDC began in Oslo in 2008, since then it has grown annually seeing more attendees, speakers, and partners. In December 2013 we did the first NDC London conference. The conference was a huge success and we are happy to announce that the 7th NDC London is set to happen the week of 27- 31 Jan 2020. NDC London 2020 is a full week event with Pre-Conference Workshops on 27-28 January followed by the actual conference 29-31 January. Both the workshops and the conference will be held at QEII in Westminster, Central London.",
+        "type": {
+            "id": "155c5df7-6dcc-4694-9d22-052df0b5fd77",
+            "name": "conference"
+        },
+        "place": {
+            "id": "57160dfc-3211-4ff5-9c18-54702aa8975d",
+            "name": "Theatre at Barbican",
+            "country": "England",
+            "city": "London"
+        },
+        "when": "2020-01-27T17:00:00Z",
+        "created_at": "2020-01-04T11:09:23.243401Z"
+    }
+]

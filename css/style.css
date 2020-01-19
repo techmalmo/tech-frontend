@@ -3817,3 +3817,8 @@ button[type=submit] {
 .partners.partners-custom .inner ul li:first-child {
   border: 0;
 }
+
+.location-content{
+  max-height: 300px;
+  overflow: scroll;
+}

@@ -1,6 +1,13 @@
 (function($) {
 	$(document).ready(function() {
 		"use strict";
+
+	$.get('/example.json').done(function(data){
+		var template = document.getElementById('template').innerHTML;
+		data.forEach(element => {
+			$('#render-maps').append(Mustache.render(template, element));
+		});
+	});
 		
 		
 	// DATA BACKGROUND IMAGE
