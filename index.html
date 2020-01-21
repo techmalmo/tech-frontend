@@ -292,12 +292,12 @@
   <div class="col-lg-6 wow fadeIn" style="margin-bottom: 20px;">
     <div class="location-box">
         <div class="location-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.2378765886474!2d-73.97644805915624!3d40.69075842971381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25bb6c6fe52c7%3A0x2b3bb16e97b13c01!2sFort+Greene+Tennis+Courts!5e0!3m2!1sen!2str!4v1559831164025!5m2!1sen!2str" allowfullscreen></iframe>
+            <iframe src="https://maps.google.com/maps?q={{place.lat}},{{place.lan}}&hl=es;z=8&amp;output=embed" allowfullscreen></iframe>
             <i class="fas fa-map-marker-alt"></i>
         </div>
         <div class="location-content">
-          <p>{{title}}</p>
-          <p>{{description}}</p>
+          <p class="location-title">{{title}}</p>
+          <p class="location-desc">{{description}}</p>
             <address>
 <p>{{place.name}},
 <strong>{{place.city}} / {{place.country}}</strong></p>
