@@ -11,7 +11,9 @@
             "id": "ad8b6a51-65c2-487c-9f47-97e02af49d3c",
             "name": "Prince Consort Rooms at The HAC",
             "country": "England",
-            "city": "London"
+            "city": "London",
+            "lat": 55.5975798,
+            "lan": 13.0212704
         },
         "when": "2020-03-17T10:00:00Z",
         "created_at": "2020-01-04T11:09:23.243401Z"
@@ -28,7 +30,9 @@
             "id": "eda4737c-19be-406b-80bf-461702a2ed25",
             "name": "Assembly Hall at Shoreditch Town Hall",
             "country": "England",
-            "city": "London"
+            "city": "London",
+            "lat": 55.5975798,
+            "lan": 13.0212704
         },
         "when": "2020-02-11T09:00:00Z",
         "created_at": "2020-01-03T15:22:06.297625Z"
@@ -45,7 +49,9 @@
             "id": "6b3867e0-d5d6-417c-87a6-8ef11eebdd02",
             "name": "Atmosphere Ground at Atmosphere Venues",
             "country": "England",
-            "city": "London"
+            "city": "London",
+            "lat": 55.5975798,
+            "lan": 13.0212704
         },
         "when": "2020-02-04T18:00:00Z",
 
@@ -63,7 +69,9 @@
             "id": "04ee5433-abf4-4da0-b43b-034a71dfa470",
             "name": "The Livery Hall at Vintner's Hall",
             "country": "England",
-            "city": "London"
+            "city": "London",
+            "lat": 55.5975798,
+            "lan": 13.0212704
         },
         "when": "2020-02-04T18:00:00Z",
         "created_at": "2020-01-04T11:09:23.243401Z"
@@ -80,7 +88,9 @@
             "id": "57160dfc-3211-4ff5-9c18-54702aa8975d",
             "name": "Theatre at Barbican",
             "country": "England",
-            "city": "London"
+            "city": "London",
+            "lat": 55.5975798,
+            "lan": 13.0212704
         },
         "when": "2020-01-27T17:00:00Z",
         "created_at": "2020-01-04T11:09:23.243401Z"

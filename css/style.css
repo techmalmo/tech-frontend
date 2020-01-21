@@ -107,6 +107,7 @@ body {
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
   overflow: hidden;
+  overflow-x: hidden!important;
 }
 
 /* HTML TAGS */
@@ -3821,4 +3822,13 @@ button[type=submit] {
 .location-content{
   max-height: 300px;
   overflow: scroll;
+}
+
+.location-title {
+  line-height: 18px;
+}
+
+.location-desc {
+  font-size: 14px;
+  font-weight:lighter
 }
