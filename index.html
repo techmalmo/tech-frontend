@@ -296,14 +296,16 @@
             <i class="fas fa-map-marker-alt"></i>
         </div>
         <div class="location-content">
-          <p class="location-title">{{title}}</p>
+          <p class="location-title">
+            <a href="{{url}}" target="_blank">{{title}}</a>
+          </p>
           <p class="location-desc">{{description}}</p>
             <address>
-<p>{{place.name}},
-<strong>{{place.city}} / {{place.country}}</strong></p>
-<p>p: +46 00 00 00 00</p>
-<a href="#">info@TechMalmo.com</a>
-</address>
+              <p>{{place.name}},
+              <strong>{{place.city}} / {{place.country}}</strong></p>
+              <p>p: +46 00 00 00 00</p>
+              <a href="mailto:info@TechMalmo.com">info@TechMalmo.com</a>
+            </address>
         </div>
     </div>
 </div>

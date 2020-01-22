@@ -3828,6 +3828,14 @@ button[type=submit] {
   line-height: 18px;
 }
 
+.location-box .location-content a {
+  text-decoration: none!important;
+}
+
+.location-box .location-content a:hover {
+  text-decoration: underline!important;
+}
+
 .location-desc {
   font-size: 14px;
   font-weight:lighter
