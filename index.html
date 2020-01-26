@@ -251,7 +251,7 @@
       <div class="col-lg-4 wow fadeIn">
         <figure> <img src="images/logo.png" alt="Image"> </figure>
         <p>Learn, Share, Be Open. Tech Malmö is web page where you can find 
-          meetups, conferences and Tech gatherings information.<br>
+          meetups, conferences and Tech gatherings information in lovely city Malmö.<br>
           <br>
           Contact us if we are missing your events.</p>
       </div>
@@ -300,19 +300,17 @@
   <div class="col-lg-6 wow fadeIn" style="margin-bottom: 20px;">
     <div class="location-box">
         <div class="location-map">
-            <iframe src="https://maps.google.com/maps?q={{place.lat}},{{place.lan}}&hl=es;z=8&amp;output=embed" allowfullscreen></iframe>
+            <iframe src="https://maps.google.com/maps?q={{venue.lat}},{{venue.lon}}&hl=es;z=8&amp;output=embed" allowfullscreen></iframe>
             <i class="fas fa-map-marker-alt"></i>
         </div>
         <div class="location-content">
           <p class="location-title">
-            <a href="{{url}}" target="_blank">{{title}}</a>
+            <a href="{{link}}" target="_blank">{{local_date}}<br>{{name}}</a>
           </p>
           <p class="location-desc">{{description}}</p>
             <address>
-              <p>{{place.name}},
-              <strong>{{place.city}} / {{place.country}}</strong></p>
-              <p>p: +46 00 00 00 00</p>
-              <a href="mailto:info@TechMalmo.com">info@TechMalmo.com</a>
+              <p>{{venue.name}},
+              <strong>{{venue.city}} / {{venue.localized_country_name}}</strong></p>
             </address>
         </div>
     </div>
