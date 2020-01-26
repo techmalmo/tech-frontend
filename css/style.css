@@ -3840,3 +3840,13 @@ button[type=submit] {
   font-size: 14px;
   font-weight:lighter
 }
+
+.title-block h5.sponsor {
+  width: 100%;
+  display: block;
+  text-transform: uppercase;
+  color: #490eea;
+  font-size: 25px;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
