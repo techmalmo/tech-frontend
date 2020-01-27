@@ -3841,12 +3841,12 @@ button[type=submit] {
   font-weight:lighter
 }
 
-.title-block h5.sponsor {
+.title-block h2.sponsor {
   width: 100%;
   display: block;
   text-transform: uppercase;
-  color: #490eea;
-  font-size: 25px;
+  color: #7ee6f8;
+  font-size: 31px;
   letter-spacing: 1px;
   margin-bottom: 20px;
 }
