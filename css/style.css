@@ -518,7 +518,7 @@ button[type=submit] {
   flex-wrap: wrap;
   flex-direction: column;
   justify-content: center;
-  background: #7ee6f8;
+  background: #7FDBFF;
   position: fixed;
   left: 0;
   bottom: -100%;
@@ -621,7 +621,7 @@ button[type=submit] {
   height: 0;
   position: absolute;
   bottom: 0;
-  background: #7ee6f8;
+  background: #7FDBFF;
 }
 .preloader .layers span:nth-child(1) {
   left: 0;
@@ -682,7 +682,7 @@ button[type=submit] {
   position: fixed;
   left: 0;
   bottom: -100%;
-  background: #7ee6f8;
+  background: #7FDBFF;
   z-index: 4;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -796,7 +796,7 @@ button[type=submit] {
   font-size: 17px;
 }
 .site-navigation .inner ul li ul li a:hover {
-  color: #7ee6f8;
+  color: #7FDBFF;
 }
 .site-navigation .inner ul li i {
   font-size: 14px;
@@ -811,7 +811,7 @@ button[type=submit] {
   font-weight: 700;
 }
 .site-navigation .inner ul li a:hover {
-  color: #7ee6f8;
+  color: #7FDBFF;
   text-decoration: none;
 }
 .site-navigation.active {
@@ -910,7 +910,7 @@ button[type=submit] {
 }
 .site-menu ul li a:hover {
   text-decoration: none;
-  color: #7ee6f8;
+  color: #7FDBFF;
 }
 .site-menu .hamburger-menu {
   display: none;
@@ -965,7 +965,7 @@ button[type=submit] {
 }
 .swiper-button-prev:hover {
   background: #490eea;
-  color: #7ee6f8;
+  color: #7FDBFF;
 }
 
 .swiper-button-next {
@@ -984,7 +984,7 @@ button[type=submit] {
 }
 .swiper-button-next:hover {
   background: #490eea;
-  color: #7ee6f8;
+  color: #7FDBFF;
 }
 
 /* SIMPLE SLIDER */
@@ -1016,7 +1016,7 @@ button[type=submit] {
   left: 0;
   width: 100%;
   height: 2px;
-  background: #7ee6f8;
+  background: #7FDBFF;
   z-index: 0;
 }
 .hamburger span:nth-child(1) {
@@ -1050,7 +1050,7 @@ button[type=submit] {
 }
 .hamburger span:after {
   z-index: 2;
-  background: #7ee6f8;
+  background: #7FDBFF;
   transition: all 0.15s linear 0.3s;
 }
 .hamburger span:nth-child(2):before {
@@ -1191,7 +1191,7 @@ button[type=submit] {
   height: 0;
   border-style: solid;
   border-width: 20px 120vw 20px 0;
-  border-color: transparent #7ee6f8 transparent transparent;
+  border-color: transparent #7FDBFF transparent transparent;
   position: absolute;
   left: -20vw;
   top: -20px;
@@ -1270,7 +1270,7 @@ button[type=submit] {
   height: 0;
   border-style: solid;
   border-width: 20px 120vw 20px 0;
-  border-color: transparent #7ee6f8 transparent transparent;
+  border-color: transparent #7FDBFF transparent transparent;
   position: absolute;
   left: -20vw;
   bottom: -20px;
@@ -1330,7 +1330,7 @@ button[type=submit] {
 }
 .header .container .inner small b {
   font-weight: 400;
-  color: #7ee6f8;
+  color: #7FDBFF;
   border-bottom: 1px solid #fff;
   padding-bottom: 8px;
 }
@@ -1346,7 +1346,7 @@ button[type=submit] {
 .header .container .inner h1:after {
   content: ".";
   font-size: 80px;
-  color: #7ee6f8;
+  color: #7FDBFF;
   line-height: 1;
 }
 .header .container .inner a {
@@ -1354,7 +1354,7 @@ button[type=submit] {
   height: 56px;
   line-height: 56px;
   margin-top: 30px;
-  background: #7ee6f8;
+  background: #7FDBFF;
   color: #490eea;
   padding: 0 40px;
   font-size: 13px;
@@ -1406,7 +1406,7 @@ button[type=submit] {
   height: 0;
   border-style: solid;
   border-width: 20px 120vw 20px 0;
-  border-color: transparent #7ee6f8 transparent transparent;
+  border-color: transparent #7FDBFF transparent transparent;
   position: absolute;
   left: -20vw;
   bottom: -20px;
@@ -1466,7 +1466,7 @@ button[type=submit] {
 }
 .page-header .container .inner small b {
   font-weight: 400;
-  color: #7ee6f8;
+  color: #7FDBFF;
   border-bottom: 1px solid #fff;
   padding-bottom: 8px;
 }
@@ -1534,7 +1534,7 @@ button[type=submit] {
   opacity: 1;
 }
 .partners .inner ul li figure img {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 /* CAROUSEL SLIDER */
@@ -1917,7 +1917,7 @@ button[type=submit] {
   float: left;
   margin-right: 15px;
   position: relative;
-  background: #7ee6f8;
+  background: #7FDBFF;
   border-radius: 25px;
 }
 .switcher .holder.switch {
@@ -2048,7 +2048,7 @@ button[type=submit] {
   right: -25px;
   top: 25px;
   background: #490eea;
-  color: #7ee6f8;
+  color: #7FDBFF;
   text-align: center;
 }
 .location-box .location-map iframe {
@@ -2166,7 +2166,7 @@ button[type=submit] {
   display: block;
   margin-bottom: 20px;
   font-size: 70px;
-  color: #7ee6f8;
+  color: #7FDBFF;
   margin: 20px 0;
 }
 .sidebox p {
@@ -2211,7 +2211,7 @@ button[type=submit] {
   display: block;
   margin-bottom: 20px;
   font-size: 70px;
-  color: #7ee6f8;
+  color: #7FDBFF;
   margin: 20px 0;
 }
 .left-sidebar .widget a {
@@ -2238,14 +2238,14 @@ button[type=submit] {
   border-bottom: none;
 }
 .left-sidebar .widget ul li.active {
-  background: #7ee6f8;
+  background: #7FDBFF;
   border-bottom: none;
 }
 .left-sidebar .widget ul li.active:before {
   content: "";
   width: 35px;
   height: 100%;
-  background: #7ee6f8;
+  background: #7FDBFF;
   position: absolute;
   left: -35px;
   top: 0;
@@ -2258,7 +2258,7 @@ button[type=submit] {
   font-size: 18px;
 }
 .left-sidebar .widget ul li a:hover {
-  color: #7ee6f8;
+  color: #7FDBFF;
   text-decoration: none;
 }
 
@@ -2305,7 +2305,7 @@ button[type=submit] {
   transition: all 0.25s ease-in-out;
 }
 .side-content .image figcaption .progress .progress-bar {
-  background: #7ee6f8;
+  background: #7FDBFF;
   width: 0;
 }
 .side-content .image figcaption .progress .progress-bar.animated {
@@ -2342,7 +2342,7 @@ button[type=submit] {
   padding: 3px 0;
 }
 .side-content blockquote {
-  background: #7ee6f8;
+  background: #7FDBFF;
   padding: 30px;
   font-size: 19px;
   line-height: 1.6;
@@ -2523,7 +2523,7 @@ button[type=submit] {
 }
 .job-positions li:first-child {
   font-weight: 600;
-  color: #7ee6f8;
+  color: #7FDBFF;
   background: #490eea;
 }
 .job-positions li:last-child {
@@ -2763,7 +2763,7 @@ button[type=submit] {
   margin: 30px 0;
 }
 .blog .post .post-content blockquote {
-  background: #7ee6f8;
+  background: #7FDBFF;
   padding: 30px;
   font-size: 19px;
   line-height: 1.6;
@@ -2861,7 +2861,7 @@ button[type=submit] {
 }
 .blog .sidebar .widget .tags li a:hover {
   color: #490eea;
-  background: #7ee6f8;
+  background: #7FDBFF;
   text-decoration: none;
 }
 .blog .sidebar .widget .side-gallery {
@@ -2903,7 +2903,7 @@ button[type=submit] {
   content: "";
   width: 60px;
   height: 2px;
-  background: #7ee6f8;
+  background: #7FDBFF;
   position: absolute;
   left: -40px;
   bottom: -2px;
@@ -3091,7 +3091,7 @@ button[type=submit] {
   display: inline-block;
   height: 56px;
   line-height: 56px;
-  background: #7ee6f8;
+  background: #7FDBFF;
   color: #490eea;
   border: none;
   padding: 0 40px;
@@ -3122,7 +3122,7 @@ button[type=submit] {
   height: 0;
   border-style: solid;
   border-width: 20px 120vw 20px 0;
-  border-color: transparent #7ee6f8 transparent transparent;
+  border-color: transparent #7FDBFF transparent transparent;
   position: absolute;
   left: -20vw;
   top: -20px;
@@ -3167,7 +3167,7 @@ button[type=submit] {
   font-size: 13px;
 }
 .footer ol li a:hover {
-  color: #7ee6f8;
+  color: #7FDBFF;
 }
 .footer ul {
   width: 50%;
@@ -3185,7 +3185,7 @@ button[type=submit] {
   width: 5px;
   height: 5px;
   float: left;
-  background: #7ee6f8;
+  background: #7FDBFF;
   border-radius: 50%;
   margin-right: 10px;
   margin-top: 10px;
@@ -3195,7 +3195,7 @@ button[type=submit] {
   text-decoration: none;
 }
 .footer ul li a:hover {
-  color: #7ee6f8;
+  color: #7FDBFF;
 }
 .footer .bottom-bar {
   width: 100%;
@@ -3218,7 +3218,7 @@ button[type=submit] {
   text-decoration: underline;
 }
 .footer b a:hover {
-  color: #7ee6f8;
+  color: #7FDBFF;
 }
 
 /* RESPONSIVE MEDIUM  FIXES */
@@ -3845,7 +3845,7 @@ button[type=submit] {
   width: 100%;
   display: block;
   text-transform: uppercase;
-  color: #7ee6f8;
+  color: #525657;
   font-size: 31px;
   letter-spacing: 1px;
   margin-bottom: 20px;
