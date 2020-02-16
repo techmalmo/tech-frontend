@@ -2034,7 +2034,7 @@ button[type=submit] {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  background: #7ee6f8;
+  background: #ecfcff;
 }
 .location-box .location-map {
   width: 50%;
