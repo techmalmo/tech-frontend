@@ -4,8 +4,18 @@
 
 	$.get('/example.json').done(function(data){
 		var template = document.getElementById('template').innerHTML;
+		var iframeMap = document.getElementById('map-iframe').innerHTML;
 		data.forEach(element => {
 			$('#render-maps').append(Mustache.render(template, element));
+		});
+
+		$('.location-map').each(function() {
+			var lat = $(this).data('lat');
+			var lon = $(this).data('lon');
+			$(this).click(function() {
+				$('#modal-content').html(Mustache.render(iframeMap, {venue: {lat: lat, lon: lon}}));
+				$('#main-modal').modal('show');
+			})
 		});
 	});
 		

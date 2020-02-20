@@ -319,11 +319,34 @@
 </footer>
 <!-- end footer --> 
 
+<div class="modal fade" id="main-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Location</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div id="modal-content"></div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script id="map-iframe" type="x-tmpl-mustache">
+  <iframe style="width: 100%; height: 400px;" src="https://maps.google.com/maps?q={{venue.lat}},{{venue.lon}}&hl=es;z=8&amp;output=embed" allowfullscreen></iframe>
+</script>
+
 <script id="template" type="x-tmpl-mustache">
   <div class="col-lg-6 wow fadeIn" style="margin-bottom: 20px;">
     <div class="location-box">
-        <div class="location-map">
-            <iframe src="https://maps.google.com/maps?q={{venue.lat}},{{venue.lon}}&hl=es;z=8&amp;output=embed" allowfullscreen></iframe>
+        <div class="location-map" data-lat="{{venue.lat}}" data-lon="{{venue.lon}}" style="cursor: pointer;">
+            <img src="images/map.png" />
             <i class="fas fa-map-marker-alt"></i>
         </div>
         <div class="location-content">
